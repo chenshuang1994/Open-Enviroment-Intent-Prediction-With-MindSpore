@@ -1,4 +1,4 @@
-## Source code for 'Towards Open Environment Intent Prediction'.
+## Source code for 'Towards Open Environment Intent Prediction' with MindSpore.
 
 ## Dependencies
 ### Use anaconda to create python environemnt:
@@ -23,3 +23,4 @@ Results stored in outputs, e.g. banking_adb_result.csv
 + [Adaptive-Decision-Boundary](https://github.com/hanleizhang/Adaptive-Decision-Boundary) 
 + [PrefixTuning](https://github.com/XiangLi1999/PrefixTuning)
 + [RAMA](https://github.com/pawelswoboda/RAMA)
+
